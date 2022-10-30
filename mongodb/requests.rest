@@ -1,0 +1,13 @@
+GET http://localhost:5000/demo
+
+
+###
+
+POST http://localhost:5000/demo/add
+Content-Type: application/json
+
+{
+    "name": "Anish 2",
+    "email": "anish2@email.com",
+    "phone": 922112394121
+}

@@ -1,0 +1,12 @@
+Frontend 
+
+->npm i bootstrap
+ import "bootstrap/dist/css/bootstrap.min.css"
+->npm i react-router-dom
+
+Backend Folder
+-> npm init (creates package.json)
+-> npm install express cors mongoose dotenv
+
+-> npm install -g nodemon (auto reload) 
+-> sudo install -g nodemon (if error for npm)
